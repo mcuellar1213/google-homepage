@@ -1,0 +1,52 @@
+#googleBanner {
+    position: fixed;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+#searchBox {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#googleSearch {
+    position: fixed;
+    top: 42%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+
+#feelingLucky {
+    position: fixed;
+    top: 42%;
+    left: 61%;
+    transform: translate(-50%,-50%);
+}
+
+/*#about {
+    position: fixed;
+    top: 1%;
+    left: 1%;
+}
+*/
+/*#store {
+    position: fixed;
+    top: 1%;
+    left: 8%;
+}*/
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    padding:14px 16px;
+}
